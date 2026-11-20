@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nbtedit",
+  "version": "${version}",
+
+  "name": "${mod_name}",
+  "description": "Edit the NBT of items, blocks, entities, players, world data and NBT files in game.",
+  "authors": [
+    "nick22985"
+  ],
+  "contributors": [
+    "mega12345mega",
+    "Nebulajinxed"
+  ],
+  "contact": {
+    "sources": "https://github.com/nick22985/NBT-Editor"
+  },
+
+  "license": "MIT",
+  "icon": "assets/nbtedit/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.nick22985.nbteditor.fabric.NbteMod"
+    ],
+    "client": [
+      "com.nick22985.nbteditor.fabric.NbteClient"
+    ],
+    "modmenu": [
+      "com.nick22985.nbteditor.fabric.compat.ModMenuEntry"
+    ]
+  },
+  "mixins": [
+    "nbtedit.mixins.json"
+  ],
+
+  "accessWidener": "nbtedit.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "${fabric_api}": "*",
+    "minecraft": "${minecraft}",
+    "java": ">=${java}"
+  },
+  "suggests": {
+    "nbtac": ">=2.0"
+  }
+}

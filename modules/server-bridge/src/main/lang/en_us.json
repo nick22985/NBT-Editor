@@ -1,0 +1,20 @@
+{
+  "module.name": "Server Bridge",
+  "config.permission_level": "Required permission level",
+  "config.permission_level.desc": "Players need at least this operator level to read or write world data through the mod",
+  "config.other_players": "Allow editing other players",
+  "config.other_players.desc": "Lets permitted players read and write the data of other online players",
+  "name": "Server",
+  "error.denied": "The server denied the request: your permission level is too low",
+  "error.other_players": "The server does not allow editing other players",
+  "error.invalid": "The server rejected the request as invalid",
+  "error.failed": "The server could not complete the request",
+  "error.timeout": "The server did not answer in time",
+  "error.disconnected": "Disconnected before the server answered",
+  "error.unavailable": "The server bridge is not connected",
+  "config.mismatch_warning": "Warn about version mismatches",
+  "config.mismatch_warning.desc": "Shows a toast when the server runs a version of NBT Editor that can't talk to yours",
+  "mismatch.title": "NBT Editor version mismatch",
+  "mismatch.client_old": "The server's NBT Editor is newer. Using commands instead.",
+  "mismatch.server_old": "The server's NBT Editor is older. Using commands instead."
+}

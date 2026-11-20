@@ -1,0 +1,17 @@
+{
+  "module.name": "Vanilla Commands",
+  "config.enabled": "Use vanilla commands",
+  "config.enabled.desc": "When the server does not have the mod, read and write world data with /data, /setblock, /item and /gamerule. Needs operator permissions and the sendCommandFeedback game rule",
+  "name": "Vanilla commands",
+  "error.timeout": "The server did not answer the command. Make sure the sendCommandFeedback game rule is enabled",
+  "error.disconnected": "Disconnected before the server answered",
+  "error.command": "The server rejected a command: %s",
+  "error.unexpected": "Unexpected reply from the server: %s",
+  "error.parse": "Could not read the data the server sent: %s",
+  "error.other_dimension": "Blocks in other dimensions can only be edited when the server has the mod",
+  "error.too_long": "A value is too long to send with chat commands",
+  "error.item_too_long": "This item has too much data to set with /item",
+  "error.illegal_characters": "The data has characters that cannot be sent in chat, such as §",
+  "error.slot": "This slot cannot be set with /item",
+  "error.player_data": "Vanilla commands can only change a player's inventory. Install the mod on the server to edit other player data"
+}

@@ -1,0 +1,13 @@
+{
+  "module.name": "Inventory tabs",
+  "config.position": "Tab position",
+  "config.position.desc": "Where the client chest and inventory tabs sit on inventory screens. Takes effect the next time a screen opens",
+  "config.position.hidden": "Hidden",
+  "config.position.top_left": "Top left",
+  "config.position.top_center": "Top center",
+  "config.position.top_right": "Top right",
+  "config.position.bottom_left": "Bottom left",
+  "config.position.bottom_center": "Bottom center",
+  "config.position.bottom_right": "Bottom right",
+  "inventory": "Inventory"
+}

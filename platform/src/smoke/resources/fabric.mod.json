@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "nbtedit-smoke",
+  "version": "1.0.0",
+  "name": "NBT Editor smoke run",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.nick22985.nbteditor.smoke.SmokeClient"
+    ]
+  },
+  "depends": {
+    "nbtedit": "*"
+  }
+}

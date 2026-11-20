@@ -1,0 +1,20 @@
+{
+  "module.name": "Armor tab",
+  "tab": "Armor",
+  "dye": "Dye",
+  "dye.none": "Not dyed. Pick a color to dye it.",
+  "dye.current": "Dyed %s",
+  "dye.clear": "Clear Dye",
+  "trim": "Trim",
+  "trim.material": "Material",
+  "trim.material.title": "Trim Material",
+  "trim.pattern": "Pattern",
+  "trim.pattern.title": "Trim Pattern",
+  "trim.random": "Random Trim",
+  "trim.remove": "Remove Trim",
+  "trim.invalid": "The trim uses an inline definition and can only be edited in the NBT tab",
+  "history.dye": "Change dye",
+  "history.dye_clear": "Clear dye",
+  "history.trim": "Change trim",
+  "history.trim_remove": "Remove trim"
+}

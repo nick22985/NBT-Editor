@@ -1,0 +1,20 @@
+{
+  "module.name": "Keybinds",
+  "config.inventory_keys": "Inventory keys",
+  "config.inventory_keys.desc": "In your inventory, Space edits the hovered item, Shift + Space opens its factory, Ctrl + Space opens it as a container and Delete removes it.",
+  "config.key_hints": "Key hints",
+  "config.key_hints.desc": "List the inventory keys at the bottom of item tooltips.",
+  "key.nbtedit.open_editor": "Open editor on hovered or held item",
+  "key.nbtedit.copy_nbt": "Copy hovered item NBT",
+  "key.nbtedit.client_chest": "Copy hovered item to client chest",
+  "not_editable": "This slot can't be edited from here.",
+  "copied": "Copied the item's NBT.",
+  "no_chest": "The client chest is turned off.",
+  "chest_full": "The client chest is full.",
+  "stashed": "Saved to client chest page %s.",
+  "title": "NBT Editor",
+  "hint.edit": "Space to edit",
+  "hint.factory": "Shift + Space to open the factory",
+  "hint.container": "Ctrl + Space to open as a container",
+  "hint.delete": "Delete to delete"
+}

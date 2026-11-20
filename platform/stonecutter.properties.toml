@@ -1,0 +1,111 @@
+mod.id = "nbtedit"
+mod.name = "NBT Editor"
+mod.version = "1.0.0-alpha.1"
+
+deps.fabric_loader = "0.20.1"
+loomx.loom_version = "1.19-SNAPSHOT"
+
+["1.17.1"]
+mod.mc_compat = ">=1.17 <=1.17.1"
+deps.fabric_api = "0.46.1+1.17"
+deps.modmenu = "7kh2ofyR"
+
+["1.18.2"]
+mod.mc_compat = ">=1.18 <=1.18.2"
+deps.fabric_api = "0.77.0+1.18.2"
+deps.modmenu = "nVxObSbX"
+
+["1.19.2"]
+mod.mc_compat = ">=1.19 <=1.19.2"
+deps.fabric_api = "0.77.0+1.19.2"
+deps.modmenu = "gSoPJyVn"
+
+["1.19.3"]
+mod.mc_compat = "1.19.3"
+deps.fabric_api = "0.76.1+1.19.3"
+deps.modmenu = "id0aLmxO"
+
+["1.19.4"]
+mod.mc_compat = "1.19.4"
+deps.fabric_api = "0.87.2+1.19.4"
+deps.modmenu = "lMqXEzUw"
+
+["1.20.1"]
+mod.mc_compat = ">=1.20 <=1.20.1"
+deps.fabric_api = "0.92.12+1.20.1"
+deps.modmenu = "lEkperf6"
+deps.nbtac = "zr29QImT"
+
+["1.20.2"]
+mod.mc_compat = "1.20.2"
+deps.fabric_api = "0.91.6+1.20.2"
+deps.modmenu = "fCQyI9Zj"
+
+["1.20.4"]
+mod.mc_compat = ">=1.20.3 <=1.20.4"
+deps.fabric_api = "0.97.3+1.20.4"
+deps.modmenu = "FawTQg29"
+
+["1.20.6"]
+mod.mc_compat = ">=1.20.5 <=1.20.6"
+deps.fabric_api = "0.100.8+1.20.6"
+deps.modmenu = "HLa8flfl"
+
+["1.21.1"]
+mod.mc_compat = ">=1.21 <=1.21.1"
+deps.fabric_api = "0.116.18+1.21.1"
+deps.modmenu = "6lgOkclV"
+deps.nbtac = "5Cc4iwcu"
+
+["1.21.3"]
+mod.mc_compat = ">=1.21.2 <=1.21.3"
+deps.fabric_api = "0.114.1+1.21.3"
+deps.modmenu = "fzwJOLlA"
+
+["1.21.4"]
+mod.mc_compat = "1.21.4"
+deps.fabric_api = "0.119.4+1.21.4"
+deps.modmenu = "qEKKsTqd"
+deps.nbtac = "Eta04NSY"
+
+["1.21.5"]
+mod.mc_compat = "1.21.5"
+deps.fabric_api = "0.128.2+1.21.5"
+deps.modmenu = "2ZvBR7XI"
+deps.nbtac = "9z52rmfn"
+
+["1.21.8"]
+mod.mc_compat = ">=1.21.6 <=1.21.8"
+deps.fabric_api = "0.136.1+1.21.8"
+deps.modmenu = "ku5NivOP"
+deps.nbtac = "S65gej36"
+
+["1.21.10"]
+mod.mc_compat = ">=1.21.9 <=1.21.10"
+deps.fabric_api = "0.138.4+1.21.10"
+deps.modmenu = "pYbFlVtR"
+deps.nbtac = "2G8H1ehg"
+
+["1.21.11"]
+mod.mc_compat = "1.21.11"
+deps.fabric_api = "0.141.6+1.21.11"
+deps.modmenu = "cLkYaVuL"
+deps.nbtac = "QCCwjcnx"
+
+["26.1.2"]
+mod.mc_compat = "~26.1"
+deps.fabric_api = "0.155.3+26.1.2"
+deps.modmenu = "ZJ6YTrMY"
+deps.nbtac = "5uIfYSEB"
+
+["26.2"]
+mod.mc_compat = "~26.2"
+deps.fabric_api = "0.161.0+26.2"
+deps.modmenu = "iRo7AZXf"
+deps.nbtac = "www41BUb"
+
+["26.3"]
+mod.mc_compat = "~26.3"
+deps.fabric_api = "0.166.2+26.3"
+deps.modmenu = "xckkBHD5"
+deps.nbtac = "oyCeoqzt"

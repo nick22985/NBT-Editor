@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.nick22985.nbteditor.fabric.mixin",
+  "compatibilityLevel": "${java}",
+  "mixins": [${common_mixins}],
+  "client": [${client_mixins}],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

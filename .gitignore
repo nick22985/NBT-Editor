@@ -1,0 +1,14 @@
+.gradle/
+.gradle-install/
+build/
+run/
+bin/
+out/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+.sbx/
+.kotlin/

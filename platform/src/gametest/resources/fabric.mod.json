@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "nbtedit-gametest",
+  "version": "1.0.0",
+  "name": "NBT Editor gametests",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-client-gametest": [
+      "com.nick22985.nbteditor.gametest.SmokeGameTest",
+      "com.nick22985.nbteditor.gametest.LocaleGameTest",
+      "com.nick22985.nbteditor.gametest.EditorGameTest",
+      "com.nick22985.nbteditor.gametest.WorldGameTest",
+      "com.nick22985.nbteditor.gametest.FactoryGameTest",
+      "com.nick22985.nbteditor.gametest.InventoryGameTest",
+      "com.nick22985.nbteditor.gametest.CommandGameTest",
+      "com.nick22985.nbteditor.gametest.KeybindGameTest",
+      "com.nick22985.nbteditor.gametest.HeadDbGameTest",
+      "com.nick22985.nbteditor.gametest.ModelsGameTest",
+      "com.nick22985.nbteditor.gametest.TabGameTest",
+      "com.nick22985.nbteditor.gametest.FileGameTest",
+      "com.nick22985.nbteditor.gametest.SettingsGameTest"
+    ]
+  },
+  "depends": {
+    "nbtedit": "*"
+  }
+}

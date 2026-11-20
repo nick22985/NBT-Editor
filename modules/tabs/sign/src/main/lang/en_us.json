@@ -1,0 +1,21 @@
+{
+  "module.name": "Sign tab",
+  "tab": "Sign",
+  "front": "Front",
+  "back": "Back",
+  "text": "Text",
+  "switch.front": "Edit Front",
+  "switch.back": "Edit Back",
+  "line": "Line %s",
+  "line.placeholder": "Empty",
+  "width.hint": "Text wider than %s pixels is cut off on the sign",
+  "color": "Color",
+  "glowing": "Glowing text",
+  "waxed": "Waxed (cannot be edited in game)",
+  "history.line": "Edit sign line",
+  "history.color": "Change sign color",
+  "history.glowing": "Toggle glowing text",
+  "history.waxed": "Toggle waxed",
+  "command.sign": "Edits the held or targeted sign, or makes a new one",
+  "command.not_sign": "%s isn't a sign."
+}

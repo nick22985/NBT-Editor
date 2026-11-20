@@ -1,0 +1,19 @@
+{
+  "module.name": "Slot Unlock",
+  "config.enabled": "Unlock restricted slots",
+  "config.enabled.desc": "Lets you put any item into slots that normally only accept certain items. Servers need the mod installed and must grant you permission",
+  "config.shulker_box": "Shulker boxes",
+  "config.shulker_box.desc": "Allow shulker boxes inside shulker boxes",
+  "config.armor": "Armor slots",
+  "config.armor.desc": "Allow any item in armor slots, and allow taking off items with Curse of Binding",
+  "config.furnace": "Furnace slots",
+  "config.furnace.desc": "Allow any item in furnace fuel and result slots",
+  "config.brewing_stand": "Brewing stand slots",
+  "config.brewing_stand.desc": "Allow any item in brewing stand slots",
+  "config.mount": "Mount slots",
+  "config.mount.desc": "Allow any item in horse, llama and other mount equipment slots",
+  "config.bundle": "Bundles",
+  "config.bundle.desc": "Allow shulker boxes and bundles inside bundles",
+  "config.permission_level": "Required permission level",
+  "config.permission_level.desc": "Players need at least this operator level for the server to accept unlocked slots"
+}

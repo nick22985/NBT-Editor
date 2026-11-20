@@ -1,0 +1,16 @@
+package com.nick22985.nbteditor.hook;
+
+/**
+ * @author nick22985 Created on 11/20/26 for NBT-Editor
+ */
+public abstract class CancellableEvent {
+	private boolean cancelled;
+
+	public void cancel() {
+		this.cancelled = true;
+	}
+
+	public boolean cancelled() {
+		return this.cancelled;
+	}
+}

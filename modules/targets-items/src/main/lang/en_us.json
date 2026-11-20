@@ -1,0 +1,23 @@
+{
+  "module.name": "Item targets",
+  "empty_slot": "Empty slot",
+  "no_player": "Join a world first",
+  "nested": "Item",
+  "nested.missing": "No item at %s",
+  "save.slot_failed": "The game rejected the item",
+  "save.not_creative": "Saving items needs creative mode, or a server with the mod or op",
+  "source.inventory": "Inventory",
+  "source.nested": "Inside %s at %s",
+  "slot.cursor": "Cursor",
+  "slot.main_hand": "Main hand",
+  "slot.hotbar": "Hotbar slot %s",
+  "slot.inventory": "Inventory slot %s",
+  "slot.feet": "Feet",
+  "slot.legs": "Legs",
+  "slot.chest": "Chest",
+  "slot.head": "Head",
+  "slot.offhand": "Off hand",
+  "slot.other": "Slot %s",
+  "command.slot": "Edits the item in an inventory slot (0-8 hotbar, 9-35 inventory, 36-39 armor, 40 off hand)",
+  "command.offhand": "Edits the item in your off hand"
+}

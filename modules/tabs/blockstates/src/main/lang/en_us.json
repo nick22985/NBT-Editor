@@ -1,0 +1,20 @@
+{
+  "module.name": "Block states tab",
+  "tab": "Block States",
+  "properties": "Properties",
+  "reset": "Reset",
+  "reset.block": "Set every property back to the block's default",
+  "reset.item": "Remove the stored block state so the item places its default state",
+  "fill": "Fill Defaults",
+  "fill.hint": "Store every property with its default value",
+  "item.hint": "Unset properties keep the placed state",
+  "unset": "(unset)",
+  "unknown": "Unknown properties",
+  "unknown.hint": "This block has no property with this name, so the game ignores it",
+  "invalid": "%s isn't a valid value for this property",
+  "remove": "Remove",
+  "history.set": "Set block state",
+  "history.remove": "Remove block state",
+  "history.reset": "Reset block state",
+  "history.fill": "Fill block state"
+}
